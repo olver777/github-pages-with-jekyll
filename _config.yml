@@ -16,6 +16,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 ---
-title: GitHub_Training
+title: "GitHub_Training"
 date: 2018-12-14
 ---

@@ -1,4 +1,7 @@
-title: GitHub Training
+---
+title: "GitHub_Training"
+date: 2018-12-14
+---
 
 author: olver777
 email: olver777@gmail.com
@@ -15,7 +18,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
 
----
-title: "GitHub_Training"
-date: 2018-12-14
----
+

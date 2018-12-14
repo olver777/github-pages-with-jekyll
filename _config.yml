@@ -1,5 +1,5 @@
-title: GitHub_Training
-date: 2018-12-14
+title: GitHub Training
+
 author: olver777
 email: olver777@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,3 +14,8 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: GitHub_Training
+date: 2018-12-14
+---
